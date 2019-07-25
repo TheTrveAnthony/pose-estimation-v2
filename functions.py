@@ -1,6 +1,6 @@
 import torch as t 
 import torchvision
-import numpy as np
+#import numpy as np
 from PIL import Image as im
 from PIL import ImageDraw as idw 
 #from matplotlib import pyplot as plt 	<=== For Some reason, importing matplolib makes the prediction return an error
